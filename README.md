@@ -1,4 +1,4 @@
-# Model Clustering untuk Segmentasi Nasabah FundFusion # 🏦
+ Model Clustering untuk Segmentasi Nasabah FundFusion 🏦
 
 Deskripsi Proyek 📓
 Proyek ini bertujuan untuk membangun model clustering untuk mengidentifikasi segmen nasabah FundFusion berdasarkan demografi dan perilaku mereka. Dengan memahami karakteristik unik dari setiap segmen, diharapkan dapat meningkatkan efektivitas strategi pemasaran dan penawaran produk.
