@@ -42,3 +42,5 @@ Algoritma Clustering
 Metode Evaluasi
 - Elbow Method: Untuk menentukan jumlah cluster yang optimal dengan melihat titik belok pada plot inersia.
 - Silhouette Score: Untuk mengukur kualitas clustering dengan melihat kohesi dan separasi antar cluster.
+
+PPT : https://docs.google.com/presentation/d/1dS7Pnw5teLe2fx4Lcz-mIInxFhx56gYbNJD6DK2-Fqw/edit?usp=sharing
