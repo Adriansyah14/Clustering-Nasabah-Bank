@@ -45,7 +45,7 @@ Metode Evaluasi
 
 
 
-❕Analisis Hasil Deployment ❕
+## ❕Analisis Hasil Deployment ❕
   - Clustering berhasil dilakukan dengan Silhoutte Score tertinggi diperoleh 0.5 pada cluster ke-3, yang dimana score ini tidak sesuai obyektif pada Deployment yaitu >0.7
   - Nasabah terbagi tiga cluster. Cluster nol dengan rentang usia nasabah 53-70 tahun cenderung memiliki produk yang sedikit, cluster satu dengan rentang usia 20-37 tahun memiliki jumlah produk yang  bervariasi, dan cluster dua dengan rentang usia nasabah 38 - 52 tahun cenderung memiliki jumlah produk yang paling banyak.
   - Nasabah pada cluster 1 cenderung memiliki produk terbanyak diikuti cluster 2 dan cluster 0.
