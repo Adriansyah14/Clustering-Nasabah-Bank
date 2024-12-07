@@ -1,9 +1,9 @@
- Model Clustering untuk Segmentasi Nasabah FundFusion 🏦
+ #Model Clustering untuk Segmentasi Nasabah FundFusion 🏦
 
-Deskripsi Proyek 📓
+##Deskripsi Proyek 📓
 Proyek ini bertujuan untuk membangun model clustering untuk mengidentifikasi segmen nasabah FundFusion berdasarkan demografi dan perilaku mereka. Dengan memahami karakteristik unik dari setiap segmen, diharapkan dapat meningkatkan efektivitas strategi pemasaran dan penawaran produk.
 
-Permasalahan 
+##Permasalahan 
 Saat ini, belum ada strategi yang tepat untuk memasarkan jenis produk yang sesuai dengan segmen bakal calon nasabah.
 
 Tujuan
@@ -42,5 +42,10 @@ Algoritma Clustering
 Metode Evaluasi
 - Elbow Method: Untuk menentukan jumlah cluster yang optimal dengan melihat titik belok pada plot inersia.
 - Silhouette Score: Untuk mengukur kualitas clustering dengan melihat kohesi dan separasi antar cluster.
+
+
+  ❕Analisis Hasil Deployment ❕
+  - Clustering berhasil dilakukan dengan Silhoutte Score tertinggi diperoleh 0.5 pada cluster ke-3, yang dimana score ini tidak sesuai obyektif pada Deployment yaitu >0.7
+  - Nasabah terbagi tiga cluster. Cluster nol dengan rentang usia nasabah 53-70 tahun cenderung memiliki produk yang sedikit, cluster satu dengan rentang usia 20-37 tahun memiliki jumlah produk yang  bervariasi, dan cluster dua dengan rentang usia nasabah 38 - 52 tahun cenderung memiliki jumlah produk yang paling banyak.
 
 PPT : https://docs.google.com/presentation/d/1dS7Pnw5teLe2fx4Lcz-mIInxFhx56gYbNJD6DK2-Fqw/edit?usp=sharing
