@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk membangun model clustering untuk mengidentifikasi seg
 ## Permasalahan 
 Saat ini, belum ada strategi yang tepat untuk memasarkan jenis produk yang sesuai dengan segmen bakal calon nasabah.
 
-Tujuan
+## Tujuan
 - Membuat model clustering untuk mengetahui kepemilikan produk berdasarkan demografi nasabah.
 - Mencapai Silhouette Score >0.7 untuk memastikan kualitas clustering yang baik.
 
@@ -44,8 +44,11 @@ Metode Evaluasi
 - Silhouette Score: Untuk mengukur kualitas clustering dengan melihat kohesi dan separasi antar cluster.
 
 
-  ❕Analisis Hasil Deployment ❕
+
+❕Analisis Hasil Deployment ❕
   - Clustering berhasil dilakukan dengan Silhoutte Score tertinggi diperoleh 0.5 pada cluster ke-3, yang dimana score ini tidak sesuai obyektif pada Deployment yaitu >0.7
   - Nasabah terbagi tiga cluster. Cluster nol dengan rentang usia nasabah 53-70 tahun cenderung memiliki produk yang sedikit, cluster satu dengan rentang usia 20-37 tahun memiliki jumlah produk yang  bervariasi, dan cluster dua dengan rentang usia nasabah 38 - 52 tahun cenderung memiliki jumlah produk yang paling banyak.
+  - Nasabah pada cluster 1 cenderung memiliki produk terbanyak diikuti cluster 2 dan cluster 0.
+  - Ketiga cluster memiliki lokasi, vintage, pendidikan, dan jenis kelamin yang cenderung sama yaitu lokasi Jakarta, vintage 2-3 tahun, pendidikan sarjana, dan jenis kelamin laki-laki.
 
 PPT : https://docs.google.com/presentation/d/1dS7Pnw5teLe2fx4Lcz-mIInxFhx56gYbNJD6DK2-Fqw/edit?usp=sharing
